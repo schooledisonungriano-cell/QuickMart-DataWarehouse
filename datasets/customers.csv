@@ -1,0 +1,5 @@
+customer_id,name,email,gender,age,city,region
+C001,Maria Santos,maria.santos@email.com,F,28,Manila,NCR
+C002,Juan Dela Cruz,juan.dc@email.com,M,35,Cebu City,Central Visayas
+C003,Ana Reyes,ana.reyes@email.com,F,22,Davao City,Davao Region
+C004,Mark Lim,mark.lim@email.com,M,41,Quezon City,NCR

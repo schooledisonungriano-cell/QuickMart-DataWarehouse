@@ -1,0 +1,6 @@
+product_id,product_name,category,subcategory,brand,price,cost
+P001,Wireless Mouse,Electronics,Computer Accessories,Logitech,600,350
+P002,Bluetooth Keyboard,Electronics,Computer Accessories,Logitech,800,500
+P003,Smartphone,Electronics,Mobile Phones,Samsung,2500,1800
+P004,Smartwatch,Electronics,Wearables,Apple,1500,1100
+P005,USB-C Cable,Electronics,Cables & Chargers,Anker,500,200
