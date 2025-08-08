@@ -23,13 +23,12 @@ The following tools were selected to ensure efficiency, scalability, and ease of
 
 ### Dataset Folder Structure
 
-QuickMart-DataWarehouse/
-                └── datasets/
-                      ├── customers.csv
-                      ├── products.csv
-                      ├── orders.csv
-                      ├── order_items.csv
-                      └── inventory.csv
+QuickMart-DataWarehouse/ datasets/
+                        ─ customers.csv
+                        ─ products.csv
+                        ─ orders.csv
+                        ─ order_items.csv
+                        ─ inventory.csv
 
 **Author:** Edison Ungriano  
 **Date:** August 8, 2025
