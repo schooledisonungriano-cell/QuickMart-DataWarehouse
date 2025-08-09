@@ -30,6 +30,7 @@ QuickMart-DataWarehouse/ datasets/
                         ─ order_items.csv
                         ─ inventory.csv
 
-**Author:** Edison Ungriano ** John Benidict R. Sevilla  
+**Author:** Edison Ungriano 
+            John Benidict R. Sevilla  
 **Date:** August 8, 2025
 
