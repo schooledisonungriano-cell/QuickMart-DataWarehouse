@@ -1,15 +1,26 @@
-Welcome to your new dbt project!
+# QuickMart Data Warehouse Project
 
-### Using the starter project
+## Tool Selection Justification
 
-Try running the following commands:
-- dbt run
-- dbt test
+The following tools were selected to ensure efficiency, scalability, and ease of collaboration:
 
+### 1. Data Storage & Warehouse
+**Snowflake** – Chosen for its cloud-native architecture, ability to handle large datasets, and support for both structured and semi-structured data.
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+### 2. Data Transformation
+**dbt (Data Build Tool)** – Allows modular SQL-based transformations, version control integration, and automated documentation.
+
+### 3. Visualization & Reporting
+**Power BI** – Selected for its rich visualization features, integration with multiple data sources, and ease of use for generating business dashboards.
+
+### 4. Dataset Format
+**CSV Files** – Used for sample datasets because they are lightweight, human-readable, and compatible with most data tools.
+
+### 5. Version Control & Collaboration
+**GitHub** – Enables collaborative development, version control, and centralized access to all project files.
+
+---
+
+**Author:** Edison Ungriano 
+            John Benidict R. Sevilla  
+**Date:** August 8, 2025
