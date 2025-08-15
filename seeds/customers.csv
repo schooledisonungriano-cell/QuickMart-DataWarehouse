@@ -1,0 +1,36 @@
+customer_id,name,email,gender,age,city,region
+C001,Maria Santos,maria.santos@email.com,F,28,Manila,NCR
+C002,Juan Dela Cruz,juan.dc@email.com,M,35,Cebu City,Central Visayas
+C003,Ana Reyes,ana.reyes@email.com,F,22,Davao City,Davao Region
+C004,Mark Lim,mark.lim@email.com,M,41,Quezon City,NCR
+C005,Sophia Mendoza,sophia.mendoza@email.com,F,30,Baguio City,Cordillera Administrative Region
+C006,Carlos Bautista,carlos.bautista@email.com,M,27,Iloilo City,Western Visayas
+C007,Angela Torres,angela.torres@email.com,F,24,Cagayan de Oro,Northern Mindanao
+C008,Patrick Cruz,patrick.cruz@email.com,M,38,Zamboanga City,Zamboanga Peninsula
+C009,Isabella Ramos,isabella.ramos@email.com,F,26,Naga City,Bicol Region
+C010,Daniel Villanueva,daniel.villanueva@email.com,M,33,Batangas City,CALABARZON
+C011,Katrina Flores,katrina.flores@email.com,F,29,San Fernando,Central Luzon
+C012,Roberto Castillo,roberto.castillo@email.com,M,32,Legazpi City,Bicol Region
+C013,Aileen Navarro,aileen.navarro@email.com,F,21,Dumaguete City,Central Visayas
+C014,Vincent Chua,vincent.chua@email.com,M,44,Makati City,NCR
+C015,Liza Gomez,liza.gomez@email.com,F,25,Antipolo City,CALABARZON
+C016,Adrian Fernandez,adrian.fernandez@email.com,M,40,General Santos City,SOCCSKSARGEN
+C017,Clarisse Tan,clarisse.tan@email.com,F,34,Tagbilaran City,Central Visayas
+C018,Gabriel Ong,gabriel.ong@email.com,M,28,Puerto Princesa City,MIMAROPA
+C019,Michelle De Vera,michelle.devera@email.com,F,23,Calamba City,CALABARZON
+C020,Francis Torres,francis.torres@email.com,M,31,Tarlac City,Central Luzon
+C021,Andrea Bautista,andrea.bautista@email.com,F,27,Laoag City,Ilocos Region
+C022,Joseph Santos,joseph.santos@email.com,M,39,Malolos City,Central Luzon
+C023,Kristine Gutierrez,kristine.gutierrez@email.com,F,24,Olongapo City,Central Luzon
+C024,Noel Rivera,noel.rivera@email.com,M,42,Lucena City,CALABARZON
+C025,Shiela Alvarado,shiela.alvarado@email.com,F,30,Taguig City,NCR
+C026,Jerome Pascual,jerome.pascual@email.com,M,26,Roxas City,Western Visayas
+C027,Grace Villamor,grace.villamor@email.com,F,33,Iligan City,Northern Mindanao
+C028,Albert Ramos,albert.ramos@email.com,M,35,Bacolod City,Western Visayas
+C029,Denise Mercado,denise.mercado@email.com,F,22,Dasmarinas City,CALABARZON
+C030,Raymond Uy,raymond.uy@email.com,M,29,San Pablo City,CALABARZON
+C031,Maricel Aquino,maricel.aquino@email.com,F,41,Mandaue City,Central Visayas
+C032,Paolo Hernandez,paolo.hernandez@email.com,M,37,Valenzuela City,NCR
+C033,Bianca Cruz,bianca.cruz@email.com,F,28,Lipa City,CALABARZON
+C034,Christian Salvador,christian.salvador@email.com,M,34,Koronadal City,SOCCSKSARGEN
+C035,Elaine Ramos,elaine.ramos@email.com,F,26,Cotabato City,BARMM

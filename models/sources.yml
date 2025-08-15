@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: quickmart_src
+    database: QUICKMARTDB
+    schema: DEV_ED_UNGRIANO
+    quoting:
+      database: false
+      schema: false
+      identifier: true
+    tables:
+      - name: SALES
+      - name: PRODUCTS
+      - name: "DATE"
+      - name: CUSTOMERS
+      - name: PAYMENT
+      - name: SHIPPING

@@ -1,0 +1,36 @@
+shipping_id,method,carrier,delivery_time_days,shipping_cost
+S001,Standard,LBC,5,100
+S002,Express,J&T Express,2,200
+S003,Same Day,GrabExpress,0,300
+S004,Standard,LBC,6,120
+S005,Express,J&T Express,3,220
+S006,Same Day,GrabExpress,0,350
+S007,Standard,Ninja Van,5,110
+S008,Express,Ninja Van,2,210
+S009,Same Day,Lalamove,0,320
+S010,Standard,2Go Express,7,130
+S011,Express,2Go Express,3,230
+S012,Same Day,Angkas,0,280
+S013,Standard,LBC,5,140
+S014,Express,J&T Express,2,210
+S015,Same Day,GrabExpress,0,300
+S016,Standard,Ninja Van,4,105
+S017,Express,Ninja Van,3,215
+S018,Same Day,Lalamove,0,310
+S019,Standard,2Go Express,6,125
+S020,Express,2Go Express,3,240
+S021,Same Day,Angkas,0,290
+S022,Standard,LBC,5,135
+S023,Express,J&T Express,2,205
+S024,Same Day,GrabExpress,0,340
+S025,Standard,Ninja Van,5,115
+S026,Express,Ninja Van,3,225
+S027,Same Day,Lalamove,0,315
+S028,Standard,2Go Express,6,128
+S029,Express,2Go Express,2,235
+S030,Same Day,Angkas,0,295
+S031,Standard,LBC,4,108
+S032,Express,J&T Express,2,210
+S033,Same Day,GrabExpress,0,325
+S034,Standard,Ninja Van,5,118
+S035,Express,Ninja Van,3,220

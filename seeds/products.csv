@@ -1,0 +1,36 @@
+product_id,product_name,category,subcategory,brand,list_price,cost
+P001,Wireless Mouse,Electronics,Computer Accessories,Logitech,600,350
+P002,Bluetooth Keyboard,Electronics,Computer Accessories,Logitech,800,500
+P003,Smartphone,Electronics,Mobile Phones,Samsung,2500,1800
+P004,Smartwatch,Electronics,Wearables,Apple,1500,1100
+P005,USB-C Cable,Electronics,Cables & Chargers,Anker,500,200
+P006,Gaming Headset,Electronics,Audio,Razer,2000,1400
+P007,Laptop Stand,Electronics,Computer Accessories,UGREEN,900,500
+P008,Portable SSD 1TB,Electronics,Storage Devices,Samsung,4000,3000
+P009,Mechanical Keyboard,Electronics,Computer Accessories,Corsair,3500,2500
+P010,Noise Cancelling Earbuds,Electronics,Audio,Sony,3000,2100
+P011,"4K Monitor 27""",Electronics,Displays,LG,15000,11000
+P012,Wireless Charger,Electronics,Cables & Chargers,Anker,1200,700
+P013,Action Camera,Electronics,Cameras,GoPro,18000,13500
+P014,Fitness Tracker,Electronics,Wearables,Fitbit,5000,3500
+P015,VR Headset,Electronics,Gaming,Meta,25000,19000
+P016,Drone with Camera,Electronics,Drones,DJI,55000,42000
+P017,HDMI Cable,Electronics,Cables & Chargers,Belkin,700,300
+P018,Bluetooth Speaker,Electronics,Audio,JBL,4500,3200
+P019,External Hard Drive 2TB,Electronics,Storage Devices,Seagate,5500,4000
+P020,Webcam HD 1080p,Electronics,Cameras,Logitech,2000,1300
+P021,Laser Printer,Electronics,Printers & Scanners,HP,8500,6200
+P022,Ink Cartridge Black,Electronics,Printers & Scanners,Canon,1200,800
+P023,"Smart TV 55""",Electronics,Televisions,Samsung,35000,26000
+P024,Gaming Mouse Pad,Electronics,Computer Accessories,SteelSeries,1200,700
+P025,Laptop Backpack,Electronics,Bags & Cases,Targus,3000,1900
+P026,Projector Mini,Electronics,Projectors,Epson,15000,11000
+P027,USB Hub 4-Port,Electronics,Computer Accessories,UGREEN,800,400
+P028,Graphic Tablet,Electronics,Design Tools,Wacom,12000,9000
+P029,Wireless Presentation Remote,Electronics,Computer Accessories,Logitech,2500,1700
+P030,Smart Light Bulb,Electronics,Smart Home,Philips Hue,1000,600
+P031,Robot Vacuum,Electronics,Smart Home,Xiaomi,18000,14000
+P032,Streaming Stick,Electronics,Media Players,Amazon,2500,1700
+P033,Wireless Router,Electronics,Networking,TP-Link,3500,2400
+P034,Power Bank 20000mAh,Electronics,Power Solutions,Anker,3000,2000
+P035,Gaming Console,Electronics,Gaming,Sony,30000,22000
