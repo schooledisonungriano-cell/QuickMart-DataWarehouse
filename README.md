@@ -22,5 +22,5 @@ The following tools were selected to ensure efficiency, scalability, and ease of
 ---
 
 **Author:** Edison Ungriano 
-            John Benidict R. Sevilla  
+            & John Benidict R. Sevilla  
 **Date:** August 8, 2025
