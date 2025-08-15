@@ -1,4 +1,0 @@
-shipping_id,method,carrier,delivery_time_days,shipping_cost
-S001,Standard,LBC,5,100
-S002,Express,J&T Express,2,200
-S003,Same Day,GrabExpress,0,300
