@@ -1,4 +1,9 @@
-{{ config(materialized='view') }}
+{{ config(
+    materialized='table',
+    cluster_by=['year','month','product_id'],
+    tags=['intermediate']
+) }}
+
 
 with sales as (
   select * from {{ ref('stg_sales') }}
